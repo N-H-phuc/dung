@@ -431,20 +431,3 @@ footer p {
   text-align: center;
 }
 
-
-.games {
-  display: flex;
-  justify-content: center;
-  margin-top: 50px;
-}
-
-.games a img{
-  margin-right: 30px;
-}
-
-.games a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: red;
-}
